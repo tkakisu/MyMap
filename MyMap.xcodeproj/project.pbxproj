@@ -86,11 +86,12 @@
 				};
 			};
 			buildConfigurationList = F6ECE9932E507154008A3ED1 /* Build configuration list for PBXProject "MyMap" */;
-			developmentRegion = en;
+			developmentRegion = ja;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
+				ja,
 			);
 			mainGroup = F6ECE98F2E507154008A3ED1;
 			minimizedProjectReferenceProxies = 1;
